@@ -1,0 +1,15 @@
+age= 18
+name= 'Mauricio'
+last_name= 'Hidalgo'
+d= 193110103
+height= '1.80m'
+study= True
+work= False
+print("{:10}{}".format("id:","193110103"))
+print("********")
+print("{:10}{}".format("Name:","Mauricio Hidalgo"))
+print("{:10}{}".format("Age:","18"))
+print("{:10}{}".format("Height:","1.80"))
+print("********")
+print("{:10}{}".format("Student:","True"))
+print("{:10}{}".format("Worker:","False"))
